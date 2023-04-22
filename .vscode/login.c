@@ -39,7 +39,7 @@ struct update
 
 FILE *bf;  ///book file
 FILE *uf;
-FILE *dp;
+FILE *dp;  ///
 FILE *dp1;   ////delele booked room
 FILE *rf;
 //////////////////////main block////////////////////////////////////
